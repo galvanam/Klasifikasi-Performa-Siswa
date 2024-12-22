@@ -1,2 +1,2 @@
 # Klasifikasi-Performa-Siswa
-Klasifikasi Performa Siswa Berdasarkan Nilai Mata Pelajaran
+Repository ini dibuat untuk memenuhi Tugas Akhir Praktikum Mata Kuliah Pembelajaran Mesin
