@@ -1,7 +1,5 @@
 # Klasifikasi-Performa-Siswa
-Nama : Galvan Adam Maliki
-Nim  : 202110370311188
-Kelas: B
+Nama : Galvan Adam Maliki (202110370311188)
 
 Repository ini dibuat untuk memenuhi Tugas Akhir Praktikum Mata Kuliah Pembelajaran Mesin
 
