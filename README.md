@@ -43,3 +43,5 @@ Pendidikan adalah fondasi penting dalam pengembangan individu. Menilai performa 
 3. Pada halaman utama, pilih opsi **Input Data** untuk memasukkan data siswa.
 4. Setelah data diinputkan, navigasikan ke halaman **Hasil Klasifikasi** untuk melihat hasil klasifikasi dan visualisasinya.
 
+## Live Demo
+https://klasifikasi-performa-siswa-8m2yqjwbtdpj7nnwniq6wd.streamlit.app/
